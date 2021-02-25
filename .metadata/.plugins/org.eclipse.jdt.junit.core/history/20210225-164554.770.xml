@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MyStackTest" project="UC1" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.Bridgelabz.UC1.MyStackTest" time="0.047">
+    <testcase name="given3NumbersWhenAddedToStackShouldHaveLastAddedNodeFirst" classname="com.Bridgelabz.UC1.MyStackTest" time="0.047"/>
+  </testsuite>
+</testrun>
